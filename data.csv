@@ -1,0 +1,15 @@
+SNO,PRODUCT,REFNO,EXEC_TYPE,RAISER_COMMENTS,DESC
+1,KOKO,21341245,EXTERNAL,Require the payment for transaction 123233,OTHER
+2,KOKO,32453254,EXTERNAL,Transaction payment not made for 145643,OTHER
+3,KOKO,22623747,EXTERNAL,Payment Required for 4565656577,OTHER
+4,KOKO,46765765,EXTERNAL,Please provide Account number,OTHER
+5,KOKO,32637754,EXTERNAL,Account number not available,OTHER
+6,KOKO,23426547,EXTERNAL,Require Account number for transfer,OTHER
+7,KOKO,36345376,EXTERNAL,There are aliens in our midst,OTHER
+8,KOKO,34566576,EXTERNAL,Aliens are among us,OTHER
+9,ROM,22355635,EXTERNAL,Transaction payment not made,OTHER
+10,ROM,3253465,EXTERNAL,Payment needs to be made,OTHER
+11,BATA,36345376,INTERNAL,There are aliens in our midst,OTHER
+12,BATA,34566576,INTERNAL,Aliens are among us,OTHER
+13,ROM,22355635,CUSTOMER,Transaction payment not made,OTHER
+14,ROM,3253465,CUSTOMER,Transaction payment not made,OTHER
